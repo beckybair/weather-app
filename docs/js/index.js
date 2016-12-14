@@ -57,7 +57,7 @@ $(document).ready(function() {
       $("#windSpeed").html(windSpeed + " mph");
 
       if (iconNo === "01") { // clear sky
-        $('body').css('background-image', 'url("http://cdn.wallpapersafari.com/27/84/Ksduob.jpg")');
+        $('body').css('background-image', 'url("https://s-media-cache-ak0.pinimg.com/originals/f3/12/85/f312851601bc35f7fea5d051fb991b2c.jpg")');
       } else if (iconNo === "02") { // few clouds
         $('body').css('background-image', 'url("http://tedconfblog.files.wordpress.com/2013/07/cloud-angelo-storari-_-ancona-italy.jpg")');
       } else if (iconNo === "03") { // scattered clouds
