@@ -1,3 +1,12 @@
 body {
-  background-size: cover;
+  background: cover no-repeat;
+}
+
+.box {
+  background: rgba(00, 00, 00, 0.4);  /* Black background with 30% opacity */
+  width: 500px;
+  height: 400px;
+  margin: 10% auto;
+  padding: 50px 0;
+  color: white;
 }
