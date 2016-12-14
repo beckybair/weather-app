@@ -57,7 +57,7 @@ $(document).ready(function() {
       $("#windSpeed").html(windSpeed + " mph");
 
       if (iconNo === "01") { // clear sky
-        $('body').css('background-image', 'url("https://goodstock.photos/wp-content/uploads/2-rock-mountain-peaks-clear-sky.jpg")');
+        $('body').css('background-image', 'url("https://goodstock.photos/wp-content/uploads/rows-rock-mountains-clear-sky.jpg")');
       } else if (iconNo === "02") { // few clouds
         $('body').css('background-image', 'url("http://tedconfblog.files.wordpress.com/2013/07/cloud-angelo-storari-_-ancona-italy.jpg")');
       } else if (iconNo === "03") { // scattered clouds
